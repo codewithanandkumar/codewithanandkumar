@@ -48,3 +48,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithanandkumar&show_icons=true&locale=en" alt="codewithanandkumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithanandkumar&" alt="codewithanandkumar" /></p>
+
+<h1>My Certification & Achivements</h1>
+<p>Here, I'm share my certification and achivements.</p>
+
+![java_basic certificate_page-0001](https://github.com/user-attachments/assets/0e2c4b16-3dae-415c-a8de-dd1f198eb9db)
