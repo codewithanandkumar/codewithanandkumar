@@ -39,12 +39,15 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">📊 My Github Stats</h3>
-<img align="center" height="230em" width="430em"
-            src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithanandkumar&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true"  alt="codewithanand">
+<p>
+   <img  height="230em" width="330em"
+            src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithanandkumar&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true"  alt="codewithanandkumar"/>
     
-        <img align="center" height="230em" width="430em"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=codewithanandkumar&amp;theme=merko"
-            alt="codewithanand">
+   
+      
+ <img height="230em" width="330em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithanandkumar&amp;theme=merko" alt="codewithanandkumar"/>
+
+</p>
 
 <h1>My Certification & Achivements</h1>
 <p>Here, I'm share my certification and achivements.</p>
