@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/codewithanand/)
+
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
 
