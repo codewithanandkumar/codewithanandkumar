@@ -29,7 +29,7 @@
  <li>🖍<b>Getting better at :</b>  Java</li>
  <li>👀<b>Interest :</b> Software Development.</li>
  <li>💬<b>Ask me about :</b> Java, Spring Boot, Deployment, Oracle, MySql, Microservices</li>
- <li>📫<b>How to reach me :</b> <a href="mailto:someone@example.com">codewithanandkumar@gmail.com</a></li>
+ <li>📫<b>How to reach me :</b> <a href="mailto:codewithanandkumar@gmail.com">codewithanandkumar@gmail.com</a></li>
  <li>💬<b>Other link: </b> <a href="https://www.linkedin.com/in/codewithanand/">LinkedIn</a></li>
 </ul>
 
