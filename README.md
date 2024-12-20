@@ -14,7 +14,8 @@
   <br>
   Full Stack Java Developer 
   </li>
- <li>Magadh University (MU) Bodh Gaya, Bihar<br>Bachelor of Computer Applications - BCA</li>
+ <li>Magadh University (MU) Bodh Gaya, Bihar<br>Bachelor of Computer Applications - BCA(2023 Passout)</li>
+  <li>Magadh University (MU) Bodh Gaya, Bihar<br>Bachelor of Computer Applications - MCA(Pursuing)</li>
 </ul>
 
 <h3 align="left">🚀Languages and Tools:</h3>
