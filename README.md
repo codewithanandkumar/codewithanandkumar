@@ -9,13 +9,8 @@
 </p>
 <h1>Education:</h1>
 <ul>
- 
-  <li>Naresh iTechnology - Ameerpet, Hydrabad Telangana
-  <br>
-  Full Stack Java Developer 
-  </li>
  <li>Magadh University (MU) Bodh Gaya, Bihar<br>Bachelor of Computer Applications - BCA(2023 Passout)</li>
-  <li>Magadh University (MU) Bodh Gaya, Bihar<br>Bachelor of Computer Applications - MCA(Pursuing)</li>
+  <li>Magadh University (MU) Bodh Gaya, Bihar<br>Master of Computer Applications - MCA(Pursuing)</li>
 </ul>
 
 <h3 align="left">🚀Languages and Tools:</h3>
