@@ -24,7 +24,7 @@
  <li>🤔<b>Exploring :</b>  AWS, ReactJS, Docker, Microservices</li>
  <li>🖍<b>Getting better at :</b>  Java</li>
  <li>👀<b>Interest :</b> Software Development.</li>
- <li>💬<b>Ask me about :</b> Java, Spring Boot, Deployment, Oracle, MySql, Microservices</li>
+ <li>💬<b>Ask me about :</b> Java, Spring Boot, Deployment, Oracle, MySql</li>
  <li>📫<b>How to reach me :</b> <a href="mailto:codewithanandkumar@gmail.com">codewithanandkumar@gmail.com</a></li>
  <li>💬<b>Other link: </b> <a href="https://www.linkedin.com/in/codewithanand/">LinkedIn</a></li>
 </ul>
@@ -42,7 +42,7 @@
 <div display="flex">
 <a href="https://github.com/codewithanandkumar">
   <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codewithanandkumar&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
-  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithanandkumar&layout=compact&langs_count=8&theme=react" alt="Md. Talal Wasim" />
+  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithanandkumar&layout=compact&langs_count=8&theme=react" alt="Anand Kumar" />
   <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codewithanandkumar&layout=compact&langs_count=8&theme=react"/>
 </a>
 </div>
