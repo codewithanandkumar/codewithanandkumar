@@ -48,13 +48,3 @@
 </div>
 
 
-## 📊 My Github Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithanandkumar&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&hide_rank=false&count_private=true)
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewithanandkumar&theme=dark&hide_border=false)](https://git.io/streak-stats)
-
-## 🚀 My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithanandkumar&layout=compact&theme=dark)
-
